@@ -1,6 +1,6 @@
 # Ecommerce Laravel
 
-Basic ecommerce created in Laravel 8 and PHP 8 with Livewire, using Paypal and Stripe API. (Course of CodigoFacilito)
+Basic ecommerce created in Laravel 8 and PHP 8 with Livewire, using Paypal and Stripe API. (Course of codigo facilito)
 
 - [X] CRUD Products
 - [X] Paypal API
